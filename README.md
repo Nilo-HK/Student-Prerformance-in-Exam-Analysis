@@ -1,4 +1,4 @@
 # Student-Prerformance-in-Exam-Analysis
 
 
-In this project, my goal was to find factors that motivate students to study. I took advantage of different graphs and codes to analyze variables by using R programming language, including plots, barplots, ggplots, scatterplot, heatmap, and so on. Also, I anticipated six models to see what variables have more effects on studying for students.
+For this project, my objective was to uncover the factors that drive student motivation to study. I took advantage of various graphs and R programming language to analyze variables, employing tools like plots, barplots, ggplots, scatterplots, heatmaps, and more. Additionally, I employed six models to anticipate the impact of different variables on students' studying habits.
